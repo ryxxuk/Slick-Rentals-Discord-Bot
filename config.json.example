@@ -1,0 +1,25 @@
+{
+  "version": "1.0",
+  "token": "",
+  "stripe_private_key":
+    "",
+  "currency_api_key": "",
+
+  "prefixes": ["~"],
+  "join_message": "",
+  "currently": "playing",
+  "playing_status": "Open a ticket for support",
+  "status": "online",
+
+  "oos_channel": "724711002385678438",
+  "commission_channel": "800736742151028766",
+  "log_channel": "784234255844376576",
+  "guild": "745660410782285875",
+
+  "db_connection": "server=localhost;user=root;database=slickrentals_db;port=3306;password=password",
+
+  "stripe_commission_percent": 0.1,
+  "non_stripe_percent": 0.15,
+  "stripe_fixed_fee": 0.20,
+  "stripe_percent_fee": 0.029
+}
