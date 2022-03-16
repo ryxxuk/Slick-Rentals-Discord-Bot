@@ -1,0 +1,11 @@
+10:27:06 [Info] Discord: Discord.Net v3.0.0-dev-20210529.2 (API v9)
+10:27:06 [Info] Gateway: Connecting
+10:27:07 [Info] Gateway: Connected
+10:27:08 [Info] Gateway: Ready
+10:27:22 [Msg] Successful command 'rental' executed by user: 'ryxx'.
+10:27:54 [Info] Discord: Discord.Net v3.0.0-dev-20210529.2 (API v9)
+10:27:54 [Info] Gateway: Connecting
+10:27:55 [Info] Gateway: Connected
+10:27:55 [Info] Gateway: Ready
+10:28:08 [Msg] Successful command 'rental' executed by user: 'ryxx'.
+10:28:59 [Msg] Successful command 'check' executed by user: 'ryxx'.

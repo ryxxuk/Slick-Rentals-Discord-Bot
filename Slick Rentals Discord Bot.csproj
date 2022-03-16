@@ -1,0 +1,46 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net5.0</TargetFramework>
+    <RootNamespace>SlickRentals_Discord_Bot</RootNamespace>
+    <AssemblyName>SlickRentals Discord Bot</AssemblyName>
+    <ApplicationIcon>SR.ico</ApplicationIcon>
+    <SignAssembly>true</SignAssembly>
+    <AssemblyOriginatorKeyFile>key.snk</AssemblyOriginatorKeyFile>
+    <EnableNETAnalyzers>true</EnableNETAnalyzers>
+    <DelaySign>true</DelaySign>
+    <UserSecretsId>37fb0389-1e59-4f96-bd99-b962efb23fe9</UserSecretsId>
+    <StartupObject>SlickRentals_Discord_Bot.Program</StartupObject>
+  </PropertyGroup>
+
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|AnyCPU'">
+    <DocumentationFile></DocumentationFile>
+    <GenerateSerializationAssemblies>Off</GenerateSerializationAssemblies>
+    <Optimize>false</Optimize>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Discord.Net" Version="2.4.0" />
+    <PackageReference Include="Microsoft.Extensions.DependencyInjection" Version="6.0.0-preview.4.21253.7" />
+    <PackageReference Include="MySql.Data" Version="8.0.25" />
+    <PackageReference Include="Stripe.net" Version="39.53.0" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Resource Include="src\config.json">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Resource>
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Update="config.json">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+  </ItemGroup>
+
+  <ItemGroup>
+    <Folder Include="Properties\" />
+  </ItemGroup>
+
+</Project>

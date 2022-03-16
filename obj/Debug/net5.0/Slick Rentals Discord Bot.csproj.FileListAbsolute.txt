@@ -1,0 +1,48 @@
+C:\Users\ryanp\source\repos\Discord Bots\Slick Rentals Discord Bot\bin\Debug\net5.0\SlickRentals Discord Bot.exe
+C:\Users\ryanp\source\repos\Discord Bots\Slick Rentals Discord Bot\bin\Debug\net5.0\config.json
+C:\Users\ryanp\source\repos\Discord Bots\Slick Rentals Discord Bot\bin\Debug\net5.0\SlickRentals Discord Bot.deps.json
+C:\Users\ryanp\source\repos\Discord Bots\Slick Rentals Discord Bot\bin\Debug\net5.0\SlickRentals Discord Bot.runtimeconfig.json
+C:\Users\ryanp\source\repos\Discord Bots\Slick Rentals Discord Bot\bin\Debug\net5.0\SlickRentals Discord Bot.runtimeconfig.dev.json
+C:\Users\ryanp\source\repos\Discord Bots\Slick Rentals Discord Bot\bin\Debug\net5.0\SlickRentals Discord Bot.dll
+C:\Users\ryanp\source\repos\Discord Bots\Slick Rentals Discord Bot\bin\Debug\net5.0\ref\SlickRentals Discord Bot.dll
+C:\Users\ryanp\source\repos\Discord Bots\Slick Rentals Discord Bot\bin\Debug\net5.0\SlickRentals Discord Bot.pdb
+C:\Users\ryanp\source\repos\Discord Bots\Slick Rentals Discord Bot\bin\Debug\net5.0\BouncyCastle.Crypto.dll
+C:\Users\ryanp\source\repos\Discord Bots\Slick Rentals Discord Bot\bin\Debug\net5.0\Discord.Net.Commands.dll
+C:\Users\ryanp\source\repos\Discord Bots\Slick Rentals Discord Bot\bin\Debug\net5.0\Discord.Net.Core.dll
+C:\Users\ryanp\source\repos\Discord Bots\Slick Rentals Discord Bot\bin\Debug\net5.0\Discord.Net.Rest.dll
+C:\Users\ryanp\source\repos\Discord Bots\Slick Rentals Discord Bot\bin\Debug\net5.0\Discord.Net.Webhook.dll
+C:\Users\ryanp\source\repos\Discord Bots\Slick Rentals Discord Bot\bin\Debug\net5.0\Discord.Net.WebSocket.dll
+C:\Users\ryanp\source\repos\Discord Bots\Slick Rentals Discord Bot\bin\Debug\net5.0\Google.Protobuf.dll
+C:\Users\ryanp\source\repos\Discord Bots\Slick Rentals Discord Bot\bin\Debug\net5.0\K4os.Compression.LZ4.dll
+C:\Users\ryanp\source\repos\Discord Bots\Slick Rentals Discord Bot\bin\Debug\net5.0\K4os.Compression.LZ4.Streams.dll
+C:\Users\ryanp\source\repos\Discord Bots\Slick Rentals Discord Bot\bin\Debug\net5.0\K4os.Hash.xxHash.dll
+C:\Users\ryanp\source\repos\Discord Bots\Slick Rentals Discord Bot\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\ryanp\source\repos\Discord Bots\Slick Rentals Discord Bot\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\ryanp\source\repos\Discord Bots\Slick Rentals Discord Bot\bin\Debug\net5.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\ryanp\source\repos\Discord Bots\Slick Rentals Discord Bot\bin\Debug\net5.0\MySql.Data.dll
+C:\Users\ryanp\source\repos\Discord Bots\Slick Rentals Discord Bot\bin\Debug\net5.0\Ubiety.Dns.Core.dll
+C:\Users\ryanp\source\repos\Discord Bots\Slick Rentals Discord Bot\bin\Debug\net5.0\Zstandard.Net.dll
+C:\Users\ryanp\source\repos\Discord Bots\Slick Rentals Discord Bot\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\ryanp\source\repos\Discord Bots\Slick Rentals Discord Bot\bin\Debug\net5.0\Stripe.net.dll
+C:\Users\ryanp\source\repos\Discord Bots\Slick Rentals Discord Bot\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\ryanp\source\repos\Discord Bots\Slick Rentals Discord Bot\bin\Debug\net5.0\System.Drawing.Common.dll
+C:\Users\ryanp\source\repos\Discord Bots\Slick Rentals Discord Bot\bin\Debug\net5.0\System.Interactive.Async.dll
+C:\Users\ryanp\source\repos\Discord Bots\Slick Rentals Discord Bot\bin\Debug\net5.0\System.Linq.Async.dll
+C:\Users\ryanp\source\repos\Discord Bots\Slick Rentals Discord Bot\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\ryanp\source\repos\Discord Bots\Slick Rentals Discord Bot\bin\Debug\net5.0\System.Security.Permissions.dll
+C:\Users\ryanp\source\repos\Discord Bots\Slick Rentals Discord Bot\bin\Debug\net5.0\System.Windows.Extensions.dll
+C:\Users\ryanp\source\repos\Discord Bots\Slick Rentals Discord Bot\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\ryanp\source\repos\Discord Bots\Slick Rentals Discord Bot\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\ryanp\source\repos\Discord Bots\Slick Rentals Discord Bot\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\ryanp\source\repos\Discord Bots\Slick Rentals Discord Bot\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\ryanp\source\repos\Discord Bots\Slick Rentals Discord Bot\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\ryanp\source\repos\Discord Bots\Slick Rentals Discord Bot\obj\Debug\net5.0\Slick Rentals Discord Bot.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ryanp\source\repos\Discord Bots\Slick Rentals Discord Bot\obj\Debug\net5.0\Slick Rentals Discord Bot.AssemblyInfoInputs.cache
+C:\Users\ryanp\source\repos\Discord Bots\Slick Rentals Discord Bot\obj\Debug\net5.0\Slick Rentals Discord Bot.AssemblyInfo.cs
+C:\Users\ryanp\source\repos\Discord Bots\Slick Rentals Discord Bot\obj\Debug\net5.0\Slick Rentals Discord Bot.csproj.CoreCompileInputs.cache
+C:\Users\ryanp\source\repos\Discord Bots\Slick Rentals Discord Bot\obj\Debug\net5.0\Slick Rentals Discord Bot.csproj.CopyComplete
+C:\Users\ryanp\source\repos\Discord Bots\Slick Rentals Discord Bot\obj\Debug\net5.0\SlickRentals Discord Bot.dll
+C:\Users\ryanp\source\repos\Discord Bots\Slick Rentals Discord Bot\obj\Debug\net5.0\ref\SlickRentals Discord Bot.dll
+C:\Users\ryanp\source\repos\Discord Bots\Slick Rentals Discord Bot\obj\Debug\net5.0\SlickRentals Discord Bot.pdb
+C:\Users\ryanp\source\repos\Discord Bots\Slick Rentals Discord Bot\obj\Debug\net5.0\Slick Rentals Discord Bot.genruntimeconfig.cache
+C:\Users\ryanp\source\repos\Discord Bots\Slick Rentals Discord Bot\obj\Debug\net5.0\Slick Rentals Discord Bot.csprojAssemblyReference.cache
