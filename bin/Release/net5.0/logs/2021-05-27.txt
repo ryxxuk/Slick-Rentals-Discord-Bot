@@ -1,8 +1,0 @@
-09:24:17 [Info] Discord: Discord.Net v2.3.0 (API v6)
-09:24:18 [Info] Gateway: Connecting
-09:24:18 [Info] Gateway: Connected
-09:24:19 [Info] Gateway: Ready
-09:26:35 [Info] Discord: Discord.Net v2.3.0 (API v6)
-09:26:36 [Info] Gateway: Connecting
-09:26:36 [Info] Gateway: Connected
-09:26:37 [Info] Gateway: Ready
